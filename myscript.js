@@ -8,3 +8,4 @@ console.log(getRandomInt(999)+1);
 onkeypress="return event.charCode>=48 && event.charCode<=57" required/>
 <button type="submit" value="Submit">按我對獎</button>
 </form>
+

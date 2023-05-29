@@ -1,0 +1,22 @@
+h1{
+    text-align:center;
+    background-color: rgba(0, 255, 255, 0.703);
+    color: rgb(44, 139, 223);
+    
+}
+
+h3{
+    text-align:center;
+    background-color: rgba(0, 255, 255, 0.622);
+    color: rgb(19, 59, 95)
+  }
+
+body {
+    background-image: url(bg.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-attachment: fixed;
+    border-radius: 15%;
+}
